@@ -2,7 +2,7 @@
 
 **`Foco em Desenvolvimento FullStack`**
 
-Me chamo Isaias, tenho 21 ano e atualmente estou graduando em Engenharia da Computação na Uninter e cursando tecnico em Desenvolvimento de Sistemas no IFB. Sou apaixonado por tecnologia e jogos.
+Me chamo Isaias, tenho 19 faça Tecnologia em Sistemas para Internet e Curso Técnico em Desenvolvimento de Sistemas.
 
 
 ---
