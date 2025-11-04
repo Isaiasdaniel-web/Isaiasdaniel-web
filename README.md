@@ -2,7 +2,7 @@
 
 **`Foco em Desenvolvimento FullStack`**
 
-Me chamo Isaias, tenho 19 faça Tecnologia em Sistemas para Internet e Curso Técnico em Desenvolvimento de Sistemas.
+Me chamo Isaias, tenho 19 faço Tecnologia em Sistemas para Internet e Curso Técnico em Desenvolvimento de Sistemas.
 
 
 ---
